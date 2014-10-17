@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[puf:home|Door43 (puf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-puf|d43-puf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-puf/archive/master.zip|d43-puf.zip]]
+
+**Recent Changes**
+{{changes>ns = puf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/puf|Ethnologue data]]
+
